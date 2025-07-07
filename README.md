@@ -11,6 +11,8 @@ This tool allows users to send a POST request from iOS Shortcuts to a local or r
 ---
 ### 🔗 iOS Shortcut Link
 
+![ClipFetch Demo](https://drive.google.com/uc?id=1DUrMIsflOKlonUXFnX_3N5b0OMldk2er)
+
 Use the following link to integrate with your iOS Shortcuts:
 
 [IPhone-Shortcut](https://www.icloud.com/shortcuts/71162fb38fda4f02963de61d52aae969)
